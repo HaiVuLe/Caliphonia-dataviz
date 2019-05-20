@@ -30,5 +30,5 @@ A few questions I would like to explore include (1) where Vietnamese restaurants
 
 * [final_project2.twb](final_project2.twb): Tableau notebook. 
 
-
+![Number of restaurants per thousand people](https://raw.githubusercontent.com/HaiVuLe/Caliphonia-dataviz/master/images/Treemap-Resto-per-Capita-2.png)
 
