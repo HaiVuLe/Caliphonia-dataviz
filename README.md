@@ -8,6 +8,8 @@ Vietnamese food is what I'm proud of about my home country. Not only do I wish t
 
 A few questions I would like to explore include (1) where Vietnamese restaurants are, whether they are concentrated in areas with high representation of Vietnamese population or well spread across the state, (2) who are Vietnamese food consumers, how much is Vietnamese food loved by non-Vietnamese foodies, (3) what food is served and popular, and (4) what is the quality of Vietnamese restaurants here and how their cusomters received them.
 
+![Map of Vietnamese restaurants in Californian cities](https://raw.githubusercontent.com/HaiVuLe/Caliphonia-dataviz/master/images/Chloropleth-what-counties.png)
+
 ## Data 
 
 * Yelp data: The major source of data in this project is from Yelp. I used Yelp APIs and put together a dataset about Vietnamese restaurants in California. The data are search results returned by Yelp when querying "Vietnamese Restaurant in {city}, CA" with `city` being every city in California using the list of cities provided by [ESRI](https://www.esri.com/en-us/home). 
@@ -27,4 +29,6 @@ A few questions I would like to explore include (1) where Vietnamese restaurants
 * [Write up](/Vietnamese food landscape in California.pdf): write up of the analysis consisting of the data visualizations and the insight behind them.
 
 * [final_project2.twb](final_project2.twb): Tableau notebook. 
+
+
 
