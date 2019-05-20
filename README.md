@@ -16,5 +16,15 @@ A few questions I would like to explore include (1) where Vietnamese restaurants
 
 ## What's in this repo
 
+* [data](/data): includes data for all the plots generated. The csv files with naming convention `business_info_{city_name}` are raw data of restaurants from Yelp, each of which is for one city. For details of the data, see [Yelp documentation](https://www.yelp.com/developers/documentation/v3/business_search). A note is that the results for nearby cities may have overlap restaurants which should be removed for the correct count of restaurants.
 
+* [images](/images): png files of the plots and maps.
+
+* [data_scraping.ipynb](/data_scraping.ipynb): code to call Yelp APIs, parse json response into a pandas dataframe, and save it as csv files.
+
+* [data-cleaning.ipynb](/data-cleaning.ipynb): remove duplicates and extract features.
+
+* [Write up](/Vietnamese food landscape in California.pdf): write up of the analysis consisting of the data visualizations and the insight behind them.
+
+* [final_project2.twb](final_project2.twb): Tableau notebook. 
 
